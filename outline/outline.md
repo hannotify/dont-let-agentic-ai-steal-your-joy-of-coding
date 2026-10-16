@@ -4,7 +4,7 @@
 
 ### BrettCodes is done coding with AI
 
-A while ago, a TypeScript developer called Brett announced on his YouTube channel that he was done coding with AI. He had been a developer for 20 years and had been working with AI agents for over a year. And just like that, he decided to step away from it.
+In August 2026, a TypeScript developer called Brett announced on his YouTube channel that he was done coding with AI. He had been a developer for over 20 years and had been working with AI agents for over a year. And just like that, he decided to step away from it.
   - His main reason was that he felt AI was taking away the joy he found in coding by hand.
   - Secondary reasons: he didn't care as much about AI-generated code, and he no longer felt the need to optimize bits of tedious code.
   - His conclusion: "I'm done coding with AI, and we'll simply see what happens next."
@@ -32,6 +32,7 @@ The bottom line here: how will you make sure AI doesn't take away the thing you 
 
 > A re-enactment of a night of funprogging, interrupted rudely by my wife (who is a primary school teacher, go figure)!
 
+* First, introduce myself in 30 seconds.
 * Slide shows "17 years ago..." in cinematic style.
 * Wear a hoodie with the hood on for 'funprogging' mode, hood off for 'presenter mode'.
 * Solve a [Project Euler](https://projecteuler.net/) problem live on stage:
@@ -134,14 +135,14 @@ So what can be done, apart from all of us announcing our premature retirements o
 
 ---I
 
-### 8 Things That May Bring You Joy in the Age of Agentic AI
+### TODO Things That May Bring You Joy in the Age of Agentic AI
 
 1. Deterministic problems still require deterministic solutions.
    - e.g. running an upgrade with OpenRewrite, a linter, using the Refactor feature of your IDE or a good old regular expression (if that's your forte).
    - https://lnkd.in/p/eBsWTucs 
    - Example: changing all call sites of a method after its signature has been updated (`BigDecimal(double)` -> `BigDecimal(String)`)
 2. Never having to deal with stuff that you found boring your entire professional life any more.
-   - Ranging from generating test data to writing yet another feature that follows the exact same pattern as previous ones.
+   - Ranging from generating test data to doing code reviews all day to writing yet another feature that follows the exact same pattern as previous ones.
    - Example: how I fixed LearningPad's confidence indicator using Claude Code.
 3. Leaving the _tactical programming_ to your agents means you can focus on _strategic programming_ entirely.
    - *Thinking* about software instead of just *writing* it.
@@ -159,6 +160,7 @@ So what can be done, apart from all of us announcing our premature retirements o
    - interestingly, these are roles that most people gravitate towards when we want to build a career in tech. AI just speeds up this process.
    - in a fragment, add an additional role: 'the architect who gets their hands dirty again', from [Simons blog post](https://martinelli.ch/back-to-the-90s-the-software-engineer-has-all-the-roles-again/).
 5. A lot of very interesting software engineering is still going to be needed to evolve the current agentic AI movement into autonomous dark factories.
+   - and people who now how to use products like Jev or Herdr
 6. Sustainable and social impact is possible in a world with AI in it.
    - Environmentally-friendly AI exists: GreenPT, Ecosia AI, ...
    - Side-projects with potential social impact (like the app for my wife's classroom) can be completed faster, because it doesn't require much of your free time.
@@ -168,6 +170,7 @@ So what can be done, apart from all of us announcing our premature retirements o
 8. Writing code may be going out of fashion, but reading and understanding code is now more important than ever. 
    - Refer to "reading code" talk by Marit van Dijk
    - Refer to the the joke "knowing where to tap"
+10. Tokens will become more expensive in the future (now AI companies are losing money gaining market share, just like streaming services used to do [TODO] find a term that summarizes this strategy), leading to more responsible use of energy and resources.
 
 
 And if all of this doesn't give you joy, you can always take a leaf from @BrettCodes' book.
@@ -202,11 +205,13 @@ TODO: update relevant talk info in Obsidian after talk is completed.
 	- StackOverflow
 	- Spring Boot and other application frameworks
 * Referentie naar de #JoyOfCoding conferentie!
+* A little race at joyful tip #1: me with regexes vs. Copilot
 * Don't be a [meat proxy](https://meatproxy.me/)
 * For the "New Joys in the Future" section:
   - Our teams always seem to have shortage of people with a specific expertise, and AI (or skills) can help fill those gaps temporarily while we search for permanent hires.
   - It makes our craft more accessible to people who wouldn't be able to practise it otherwise. Goodness knows we need more software developers in this world.
   - In a field where the concepts are known to you but the actual syntax is not (e.g. a Java developer who needs some intricate CSS) AI can help you get the desired behaviour much faster.
+* Creativity in funprogging: the #JoyOfCoding conference etc.!
 
 # Abstract
 
