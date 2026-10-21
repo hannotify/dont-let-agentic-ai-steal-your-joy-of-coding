@@ -10,26 +10,79 @@ Timing:
 * Elapsed time so far: `27m`
 * Target time for current chapter: `29m`
 
+Time for the *real* takeaways.
+
 ---
 
-### TODO
+### Takeaways
+
+<div class="fragment">
+
+> If you identify as a tactical programmer (a 'code monkey'), then you are out of luck. The job has changed.
+> 
+> – Matt Pocock
+
+</div>
+
+note: 
+And Matt Pocock says it better than I ever could, in one of his Tweets, so let's quote him:
+
+"Good programming involves a mix of tactical and strategic decision-making:
+
+- Tactical: on the ground, short-term.
+- Strategic: high-view, long-term.
+
+You need to be a tactician to write good code. To choose the right syntax. To figure out the file structure. To figure out how best to test your changes.
+
+But you need to be a strategist to build code that lasts. To design the architecture. To automate away problems. To think beyond today.
+
+Agents have eaten the tactical part of programming.
+
+But they cannot code strategically. They need someone at the top of the pyramid to tell them what to do.
+
+So, a developer's day-to-day job has become 100% strategy.
+
+(slide)
+And if you identify as a tactical programmer - a 'code monkey' - then you are out of luck. The job has changed."
+
+---
+
+### Takeaways
+
+- &#x200B;<!-- .element class="fragment" -->Try to turn a career of *writing* software into a career of *designing* software and *thinking* about software.
+- &#x200B;<!-- .element class="fragment" -->Try to embrace roles that involve more human interaction and less coding, such as *coaching*, *mentoring*, *teaching*, and *public speaking*.
 
 note:
-If your career has mainly been about *writing* code up until now, the agentic AI movement might feel scary to you.
+Earlier we said that if you feel like this, you fall into the first category: people who especially enjoy the act of creating something.
+Here are your takeaways: (slide)
 
-- Try to turn a career of *writing* software into a career of *designing* software and *thinking* about software. 
-> If you _think_ about software, if you architect, design, question, verify, integrate, and make judgment calls, then you’re not being replaced. You’re being promoted. Involuntarily, perhaps. But promoted nonetheless.
+- Try to turn a career of *writing* software into a career of *designing* software and *thinking* about software.
+
+> If you _think_ about software, if you architect, design, question, verify, integrate, and make judgment calls, then you’re not being replaced, you’re being promoted. Not by choice, but promoted nonetheless.
+
 - Try to embrace roles that involve more human interaction and less coding, such as *coaching*, *mentoring*, *teaching*, and *public speaking*.
 
-You might just discover that you enjoy one of these roles a lot!
+> You might just discover that you enjoy one of these roles a lot! Your "Still working, honey?" moments can help you here. They are the best indicator of what you truly enjoy about your work, so make sure your day job includes just that.
 
 ---
 
-### TODO
+
+<!-- .slide: data-background-color="black" data-background-image="img/background/chess-spare-time.jpg" data-background-opacity="0.5" -->
+
+## And finally... <!-- .element class="stroke" -->
+
+<blockquote class="explanation">
+No-one is telling you how to spend your spare time, so keep doing fun stuff, like funprogging, playing chess, or making music!
+</blockquote>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<https://www.pexels.com/photo/close-up-shot-of-a-woman-looking-at-a-miniature-chess-6028669/> <!-- .element class="attribution" -->
 
 note:
-
-- Be mindful of how you spend your "Still working, honey?" moments. It's the best indicator of what you truly enjoy about your work, so make sure your day job includes just that.
-- Mass-adoption of dark factories will still require a lot of interesting software engineering work, and people to maintain those automations.
-- If all you currently love about your job is writing code (taking a specification and turn it into functioning software), then yes, you should probably stop using AI altogether like BrettCodes, quit your job or contribute to OSS projects on [Codeberg](https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) exclusively. 
-> Put differently: if you identify as a tactical programmer - a code monkey - then you are out of luck. The job has changed, and you need to adapt. (Matt Pocock)
+Just like people who play chess in their spare time, even though computers can play chess much better.
+Or like people playing musical instruments in their spare time, even though AI can generate music much better.

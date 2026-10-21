@@ -21,29 +21,89 @@ That doesn't necessarily mean that everyone would enjoy them, but I'll just list
 # 1️⃣
 ## deterministic problems still require deterministic solutions
 
-TODO 
+---
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7508822010740011008?collapsed=0" height="545" width="700" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+---
+
+## A frontier model agentic prompt that should have been a single-line regex <!-- .element: class="fragment" -->
 
 note:
-Deterministic problems still require deterministic solutions.
-- e.g. running an upgrade with OpenRewrite, a linter, using the Refactor feature of your IDE or a good old regular expression (if that's your forte).
-- https://lnkd.in/p/eBsWTucs 
-- Example: changing all call sites of a method after its signature has been updated (`BigDecimal(double)` -> `BigDecimal(String)`)
-- bij schaken doen computers ook niet mee in de WK’s. Want mensen willen niet tegen computers spelen.
+
+- TODO: prepare an example of changing all call sites of a method after its signature has been updated (`BigDecimal(double)` -> `BigDecimal(String)`)
+
+and declare it a (slide)
+
+frontier model agentic prompt that should have been a single-line Regex
 
 ---
 
 # 2️⃣
 ## bye-bye boring stuff!
 
+---
+
+<small>
+
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on coming up with test data
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on writing boilerplate code
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on writing tests for a new feature, similar to previous ones
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on writing yet another feature that follows the exact same pattern as previous ones
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on reviewing boilerplate code
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on reviewing tests for a new feature, similar to previous ones
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on reviewing yet another feature that follows the exact same pattern as previous ones
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on CSS tweaks because you want your HTML slide deck to look 'just right'
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on configuring the right Jackson annotations just to get your REST API response to look 'just right'
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on trying out JPA annotations so your entities are translated to your database in the right way
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on the right Spring incantations just to get something working
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on transitive dependency conflicts
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on debugging obscure runtime errors
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on fixing pipeline issues
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on fixing merge conflicts
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on dealing with unexpected production issues
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on handling customer support tickets related to your code
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on attending meetings on spending time more productively
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on dealing with office politics
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on managing your development environment and toolchain
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on dealing with technical debt
+- &#x200B;<!-- .element class="fragment fade-up" --> spending hours on ... (you name it)
+
+</small>
+
 note:
 Never having to deal with stuff that you found boring your entire professional life any more.
 - Ranging from generating test data to doing code reviews all day to writing yet another feature that follows the exact same pattern as previous ones.
-- Example: how I fixed LearningPad's confidence indicator using Claude Code.
+
+---
+
+<!-- .slide: data-background="img/background/frustration.jpg" data-background-color="black" data-background-opacity="0.5" -->
+
+## Spending hours on tedious, repetitive and downright boring stuff <!-- .element class="stroke" -->
+
+<blockquote class="explanation">
+Delegate it to your agents, and reclaim some of your time for more creative, meaningful and enjoyable work.
+</blockquote>
+
+<https://www.pexels.com/photo/young-annoyed-female-freelancer-using-laptop-at-home-3808008/> <!-- .element: class="attribution" -->
+
+note:
+To quickly summarise this:
+Delegate all tedious, repetitive and boring tasks to your agents, and reclaim some of your time for more creative, meaningful and enjoyable work.
+
+---
+
+TODO
+
+note:
+Also: now you always have someone to blame when a code reviewer finds an issue. "It wasn't me, Claude did it!"
 
 ---
 
 # 3️⃣
 ## strategic programming FTW
+
+---
 
 TODO 
 
@@ -78,11 +138,41 @@ Trying out different roles that put less emphasis on coding, such as designing, 
 # 5️⃣
 ## setting up an autonomous dark factory seems interesting!
 
-TODO
+---
+
+<!-- .slide: data-background="img/background/building-a-dark-factory.jpeg" data-background-color="black" data-background-opacity="0.8" -->
+
+[image by **Willem Meints**, used with permission]() <!-- .element: class="attribution" -->
+
+<span class="fragment">
+
+**Herdr**: <https://herdr.dev> 
+
+</span>
+
+<span class="fragment">
+
+**Jev**: <https://typesafe.ai>
+
+</span>
 
 note:
-A lot of very interesting software engineering is still going to be needed to evolve the current agentic AI movement into autonomous dark factories.
-   - and people who now how to use products like Jev or Herdr
+A lot of very interesting software engineering is still going to be needed to evolve the current agentic AI movement into autonomous dark factories:
+- assigning agents the right roles (frontier model for the Architect agent, cheaper model for the Developer agents)
+- configuring an agent orchestrator like Herdr (slide)
+- configuring a cheap and fast classifier to decide which PR's need human review, like Jev (slide)
+
+Also: people who know how to use Herdr and Jev.
+
+---
+
+### More on this topic
+
+![Engineering Context So AI Stops Guessing](img/engineering-context-so-ai-stops-guessing.jpg) <!-- .element: width="75%" -->
+
+<small>
+<a href="https://speaking.jbaru.ch/talks/baselone-2026-context/">speaking.jbaru.ch/talks/baselone-2026-context/</a>
+</small>
 
 ---
 
@@ -94,35 +184,65 @@ TODO
 note:
 2 points here
 
-Tokens will become more expensive in the future (now AI companies are losing money gaining market share, just like streaming services used to do [TODO] find a term that summarizes this strategy), leading to more responsible use of energy and resources.
+Tokens will become more expensive in the future (now AI companies are losing money gaining market share, just like streaming services used to do ([penetration pricing](https://en.wikipedia.org/wiki/Penetration_pricing)), leading to more responsible use of energy and resources.
+
+we are in the middle of a climate crisis, and the current AI boom is making it worse: directly because data centers and chip factories use up water and electricity that we would need elsewhere, and we’re switching on old, dirty power plants to satisfy the demand.
 
 Sustainable and social impact is possible in a world with AI in it.
    - Environmentally-friendly AI exists: GreenPT, Ecosia AI, ...
    - Side-projects with potential social impact (like the app for my wife's classroom) can be completed faster, because it doesn't require much of your free time.
 
---- 
+---
 
 # 7️⃣
 ## we need good, experienced people now more than ever
 
-TODO
+---
+
+1. <!-- .element: class="fragment" --> to prevent low-quality, vibe-coded software flooding the market
+2. <!-- .element: class="fragment" --> to teach our junior colleagues the fundamentals, and to use AI without skipping the fundamentals
+
+TODO: something about learning mode in multiple agents
+TODO: something about the teach skill by Matt P.
 
 note:
-We need good people now more than ever. To teach our junior colleagues, and to prevent low-quality, vibe-coded software flooding the market.
+To teach our junior colleagues, and to prevent low-quality, vibe-coded software flooding the market.
    - try Claude's `outputMode=Learning` for a better learning experience
    - Matt Pocock's [teach skill](https://github.com/mattpocock/skills/blob/main/skills/productivity/teach/SKILL.md) could be helpful here.
-8️⃣
+
 ---
 
 # 8️⃣
 ## reading and understanding code is more important than ever
 
-TODO
+---
+
+<!-- .slide: data-background="img/background/todo.jpg" data-background-color="black" data-background-opacity="0.8" -->
+
+## Writing code may be going out of fashion <!-- .element class="stroke" -->
+
+<blockquote class="explanation">
+...but <em>reading</em> and <em>understanding</em> code is now more important than ever.
+</blockquote>
+
+<todo> <!-- .element: class="attribution" -->
+
+---
+
+### More on this topic
+
+![Reading code](img/todo.jpg) <!-- .element: width="75%" -->
+
+<small>
+<a href="https://todo">todo/</a>
+</small>
 
 note:
-Writing code may be going out of fashion, but reading and understanding code is now more important than ever. 
-   - TODO: Refer to "reading code" talk by Marit van Dijk
-   - TODO: Refer to the the joke "knowing where to tap"
+TODO: Refer to "reading code" talk by Marit van Dijk
+
+---
+
+TODO: the joke "knowing where to tap"
   
 ---
 

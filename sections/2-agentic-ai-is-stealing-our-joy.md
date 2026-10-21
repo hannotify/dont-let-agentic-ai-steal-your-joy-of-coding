@@ -107,13 +107,49 @@ Instead, we're left with just the joy of seeing the final product work.
 
 ---
 
-### Why is it important to experience joy in your daily work?
+### Why is it important to experience joy in your day job?
 
-TODO: one slide that summarizes the importance of joy in daily work
-  - refer to talk on developer joy by Holly Cummins and reference the academic research that she mentioned.
+<div class="fragment">
+Because joy has business value. <span class="fragment">And it's been proven.</span>
+</div>
 
 note:
 Let's first make sure we actually have a problem that needs solving.
 Do we need joy in the workplace, or should we simply accept our fate, consider work to be just a means to an end and instead focus on other sources of fulfillment?
-[holly's conclusions]
+(slide)
+
+---
+
+### Research on the importance of joy in your day job
+
+<small>
+
+Boehm, J. K., & Lyubomirsky, S. (2008). <br/>
+<strong>Does Happiness Promote Career Success?</strong><br/>
+Journal of Career Assessment, 16(1), 101-116. <br/>
+<https://doi.org/10.1177/1069072707308140>
+
+Gin Choi Y., Kwon J., Kim W. (2013). <br/> 
+<strong>Effects of attitudes vs. experience of workplace fun on employee behaviors: Focused on Generation Y in the hospitality industry.</strong><br/>
+International Journal of Contemporary Hospitality Management, Vol. 25 No. 3 pp. 410–427. <br/> 
+<https://doi.org/10.1108/09596111311311044>
+
+Imran, M. & Ismail, F. & Hussain, K. & Zeb, F. (2021). <br/>
+<strong>Job Satisfaction and Organizational Performance: Empirical Evidence from Pakistan's Banking sector.</strong> <br/>
+<https://doi.org/10.46254/SA02.20210622>
+
+</small>
+
+---
+
+<!-- .slide: data-background-color="white" -->
+
+### More on this topic
+![Developer productivity equals developer joy](img/developer-productivity-equals-developer-joy.png) <!-- .element: width="90%" -->
+
+<small>
+<a href="https://hollycummins.com/productivity-equals-joy-swiss-redhat/">https://hollycummins.com/productivity-equals-joy-swiss-redhat</a>
+</small>
+
+note:
 So yes, it is a big deal. We're gonna need that joy back.

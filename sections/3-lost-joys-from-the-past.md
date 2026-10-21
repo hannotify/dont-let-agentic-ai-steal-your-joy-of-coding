@@ -20,10 +20,57 @@ And we're still here, enjoying our jobs, right? [wait for audience reaction]
 
 <!-- .slide: data-auto-animate" -->
 
-### We switched from...
+### We went from...
 
 <pre data-id="assembly-to-java"><code class="assembly" data-trim data-line-numbers>
-TODO: simple algorithm in assembly code
+ORG 0x0000
+
+START_OF_MEMORY  EQU 0x1000
+NUMBER_OF_ELEMENTS EQU 5
+CURRENT_ITERATION EQU 0
+
+BUBBLE_SORT:
+OUTER_LOOP:
+        LD C, 0                   
+        LD B, NUMBER_OF_ELEMENTS - 1
+        LD A, B
+        SUB H
+        LD B, A
+        LD IX, START_OF_MEMORY
+
+INNER_LOOP:
+        LD A, (IX)
+        LD D, (IX+1)
+        CP D
+        JP C, NO_SWAP
+        CALL SWAP_SUBROUTINE
+
+NO_SWAP:
+        INC IX
+        DEC B
+        JP NZ, INNER_LOOP
+
+        LD A, C
+        OR A
+        JP NZ, CONTINUE_OUTER_LOOP
+
+        JP HALT_PROGRAM
+
+CONTINUE_OUTER_LOOP:
+    INC H
+    JP OUTER_LOOP
+    
+SWAP_SUBROUTINE:
+    LD (IX), D
+    LD (IX+1), A
+    LD C, 1 
+    RET
+
+HALT_PROGRAM:
+        HALT
+
+        ORG START_OF_MEMORY
+        DB   1,60,30,10,99
 </code></pre>
 
 ---
@@ -33,7 +80,18 @@ TODO: simple algorithm in assembly code
 ### to...
 
 <pre data-id="assembly-to-java"><code class="java" data-trim data-line-numbers>
-TODO: equivalent algorithm in Java
+void bubbleSort(Integer[] arr) {
+    int length = arr.length;
+    IntStream.range(0, length - 1)
+        .flatMap(i -> IntStream.range(1, length - i))
+        .forEach(j -> {
+            if (arr[j - 1] > arr[j]) {
+                int temp = arr[j];
+                arr[j] = arr[j - 1];
+                arr[j - 1] = temp;
+            }
+         });
+}
 </code></pre>
 
 note:
@@ -42,29 +100,49 @@ I'm going to assume "No" here, as we *literally* find ourselves at a Java confer
 
 ---
 
-### We switched from...
+<!-- .slide: data-background-color="black" -->
 
-TODO: background image with complicated FORTRAN/Delphy/COBOL manual
+### We went from...
+
+![Turbo Pascal Manual](img/turbo-pascal-manual.jpg) <!-- .element: width="65%" -->
+
+<https://www.excesssolutions.com/listings/8408307-used-lot-of-vintage-borland-software-and-manuals-turbo-c-turbo-pascal-paradox#&gid=1&pid=18> <!-- .element: class="attribution" -->
 
 ---
 
+<!-- .slide: data-background-color="black" -->
+
 ### to...
 
-TODO: background image on StackOverflow
+![StackOverflow Home Page](img/stackoverflow-homepage.avif) <!-- .element: width="65%" -->
+
+<https://www.makeuseof.com/tag/10-websites-geeks-stripes-bookmark/> <!-- .element: class="attribution" -->
 
 note:
 ...and did we hate this new way of creating software?
 Any thoughts?
-Personally I would hate to spent all that time going through these thick manuals.
+Personally I would hate to spend all that time going through thick manuals like that.
 
 ---
 
 <!-- .slide: data-auto-animate" -->
 
-### We switched from...
+### We went from...
 
 <pre data-id="imperative-to-declarative"><code class="java" data-trim data-line-numbers>
-TODO: a piece of Java code that imperitively implements dependency injection
+public String fetchDataFromRemote() {
+    new Thread(() -> {
+        int attempts = 0;
+        while (attempts < 3) {
+            try {
+                return remote.fetchData();
+            } catch (RemoteException e) {
+                attempts++;
+            }
+        }
+        throw new Exception("Failed after 3 attempts");
+    }).start();
+}
 </code></pre>
 
 ---
@@ -74,7 +152,11 @@ TODO: a piece of Java code that imperitively implements dependency injection
 ### to...
 
 <pre data-id="imperative-to-declarative"><code class="java" data-trim data-line-numbers>
-TODO: a piece of Java code that simply applies an annotation
+@Async
+@Retryable(retryFor = RemoteException.class, maxAttempts = 3)
+public String fetchDataFromRemote() {
+    return remote.fetchData();
+}
 </code></pre>
 
 note:
@@ -84,7 +166,7 @@ As a trainer, I actually loved this change. Because it allowed us to create a Sp
 
 ---
 
-## Can we also switch from... <!-- .element class="fragment" -->
+## Can we also go from... <!-- .element class="fragment" -->
  
 doing all the work ourselves <!-- .element class="fragment" -->
 

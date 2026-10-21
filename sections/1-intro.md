@@ -79,13 +79,13 @@ And I think a big part of the answer to that question has to do with how we perc
 
 (slide, then explain both options, then show of hands ("you *have* to choose"))
 
-OK, I have some good news for the second category.
+OK, I have some good news for people in the second category.
 In this age of agentic AI, you're golden.
 The currenty state of the field probably fits you like a glove. You can produce more software than before and get more appreciation for it.
 
 ---
 
-### Takeaways
+### Takeaways for people in the second category
 
 * Go forth and enjoy the state of our field to the max! 🥳
 
@@ -106,12 +106,18 @@ You're in good company!
 
 note:
 If you're in the first category, at the very least you'll have mixed feelings towards the agentic AI movement.
-And you're in good company: across the globe, people who work in creative industries such as art, music or movies are standing up against AI. 
-It's not just because AI is threatening their job security, it's threatening their joy of doing it. And the absence of joy in the workplace can be a dangerous thing.
+And you're in good company: across the globe, people who work in creative industries such as art, music or movies are standing up against AI and are demanding protection for their work. 
 
-TODO: reference to Spotify protection for creators
-- Protection for creators:
-  - <https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/>
+---
+
+"Spotify Strengthens AI Protections for Artists, Songwriters, and Producers"
+
+(<https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/>)
+
+note:
+A good example of the result of this is the protection for creators that Spotify implemented last year. 
+
+People don't just want to protect their jobs, they want to protect their joy of creating. Because I think the absence of joy in the workplace can be a dangerous thing.
 
 ---
 
@@ -126,7 +132,7 @@ How will you make sure AI doesn't take away the thing you love the most?
 <https://www.pexels.com/photo/a-woman-sitting-on-the-bed-9052191/> <!-- .element: class="attribution" -->
 
 note:
-The bottom line here: how will you make sure AI doesn't take away the thing you love doing the most?
+So then the question becomes: how will you make sure AI doesn't take away the thing you love doing the most?
 
 ---
 
@@ -183,9 +189,9 @@ note:
 
 * In 2009 I spent my evenings funprogging, because back then I felt that my day job didn't challenge me with enough interesting algorithmic problems and new stacks to learn.
 * Meaning: I wasn't enjoying my day job as much, and I was looking to get that joy back. 
-* For me, this was a sign that I needed a change. Back then, I changed things up by going into consulting. But more on that later. (TODO: make sure I actually refer back to this)
+* For me, this was a sign that I needed a change. Back then, I changed things up by going into consulting, to get assigned more diverse projects.
 * But other signs exist as well:
-  * Utter apathy–a complete lack of interest or enthusiasm for the job.
+  * If you experience a loss of interest or enthousiasm for the job, which could lead to utter apathy in its most extreme form.
   * Feelings of resentment towards your employer, whether you act upon them or not.
 
 ---

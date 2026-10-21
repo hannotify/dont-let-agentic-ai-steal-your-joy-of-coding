@@ -135,7 +135,7 @@ So what can be done, apart from all of us announcing our premature retirements o
 
 ---I
 
-### TODO Things That May Bring You Joy in the Age of Agentic AI
+### x Things That May Bring You Joy in the Age of Agentic AI
 
 1. Deterministic problems still require deterministic solutions.
    - e.g. running an upgrade with OpenRewrite, a linter, using the Refactor feature of your IDE or a good old regular expression (if that's your forte).
@@ -170,7 +170,7 @@ So what can be done, apart from all of us announcing our premature retirements o
 8. Writing code may be going out of fashion, but reading and understanding code is now more important than ever. 
    - Refer to "reading code" talk by Marit van Dijk
    - Refer to the the joke "knowing where to tap"
-10. Tokens will become more expensive in the future (now AI companies are losing money gaining market share, just like streaming services used to do [TODO] find a term that summarizes this strategy), leading to more responsible use of energy and resources.
+9.  Tokens will become more expensive in the future (now AI companies are losing money gaining market share, just like streaming services used to do ('penetration pricing')), leading to more responsible use of energy and resources.
 
 
 And if all of this doesn't give you joy, you can always take a leaf from @BrettCodes' book.
@@ -205,13 +205,13 @@ TODO: update relevant talk info in Obsidian after talk is completed.
 	- StackOverflow
 	- Spring Boot and other application frameworks
 * Referentie naar de #JoyOfCoding conferentie!
-* A little race at joyful tip #1: me with regexes vs. Copilot
+* A little race at joyful tip #1: me with regexes vs. Copilot. ('Frontier model agentic prompt that should have been a single-line Regex')
 * Don't be a [meat proxy](https://meatproxy.me/)
 * For the "New Joys in the Future" section:
   - Our teams always seem to have shortage of people with a specific expertise, and AI (or skills) can help fill those gaps temporarily while we search for permanent hires.
   - It makes our craft more accessible to people who wouldn't be able to practise it otherwise. Goodness knows we need more software developers in this world.
   - In a field where the concepts are known to you but the actual syntax is not (e.g. a Java developer who needs some intricate CSS) AI can help you get the desired behaviour much faster.
-* Creativity in funprogging: the #JoyOfCoding conference etc.!
+* Creativity in funprogging: the #JoyOfCoding conference, Masters of Java etc.
 
 # Abstract
 
