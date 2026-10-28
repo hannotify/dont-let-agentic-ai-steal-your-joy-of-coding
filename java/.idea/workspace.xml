@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d876fc0-ea73-4f0f-a09f-a9a655a0d367" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/hanno/Code/talks/slide-decks/dont-let-agentic-ai-steal-your-joy-of-coding/java" value="3LCI7g9AMEalnYQ8OAZ7EE07S4z" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="4.840632940930045E-39" />
+      <entry key="MS500" value="2.172603277588752E-8" />
+      <entry key="S2" value="0.012140816034262383" />
+      <entry key="S5" value="0.17347363600968696" />
+      <entry key="S10" value="0.4924193113740608" />
+      <entry key="S30" value="2.2127741740431808" />
+      <entry key="S60" value="4.52430649496014" />
+      <entry key="M2" value="7.970225112087652" />
+      <entry key="M5" value="19.363502936251457" />
+      <entry key="M10" value="38.46745666783653" />
+      <entry key="M15" value="53.077836802406615" />
+      <entry key="M30" value="77.81646102559853" />
+      <entry key="H1" value="96.595379624323" />
+      <entry key="H2" value="108.32029887752255" />
+      <entry key="H4" value="114.89395175732692" />
+      <entry key="D1" value="120.77665919919333" />
+      <entry key="W1" value="121.82425424469683" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000145234777211" />
+      <entry key="S2" value="1.0710350965088518" />
+      <entry key="S5" value="1.4831318998362988" />
+      <entry key="S10" value="1.9967786555630964" />
+      <entry key="S30" value="3.080993991830432" />
+      <entry key="S60" value="4.164159418661406" />
+      <entry key="M2" value="5.648691327066748" />
+      <entry key="M5" value="8.60815183720748" />
+      <entry key="M10" value="11.556030236524826" />
+      <entry key="M15" value="13.310030082180388" />
+      <entry key="M30" value="15.897756415867166" />
+      <entry key="H1" value="17.69504406925757" />
+      <entry key="H2" value="18.77311688162271" />
+      <entry key="H4" value="19.366349599145195" />
+      <entry key="D1" value="19.89143539192518" />
+      <entry key="W1" value="19.984416330311188" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="4.822029491353622E-5" />
+      <entry key="MS500" value="0.1369766531896393" />
+      <entry key="S2" value="0.646094000352275" />
+      <entry key="S5" value="1.3295357396586154" />
+      <entry key="S10" value="2.2392244038139344" />
+      <entry key="S30" value="5.146524107557512" />
+      <entry key="S60" value="8.571731800040624" />
+      <entry key="M2" value="13.518205088722741" />
+      <entry key="M5" value="27.896427961077027" />
+      <entry key="M10" value="49.97078956047087" />
+      <entry key="M15" value="66.34692217168802" />
+      <entry key="M30" value="93.68936974538603" />
+      <entry key="H1" value="114.27643052692726" />
+      <entry key="H2" value="127.08593793405805" />
+      <entry key="H4" value="134.2564283730412" />
+      <entry key="D1" value="140.66742915511705" />
+      <entry key="W1" value="141.8085750061259" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LCFGNwZV9ffVs2estF31S1Ejxi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectSessionTemplates">
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Problem44Fast.executor": "Run",
+    "Application.Problem44Slow.executor": "Run",
+    "JUnit.InterestCalculatorTest.calculateCompoundInterest_forPositiveRate_returnsTheRightAmount.executor": "Run",
+    "JUnit.InterestCalculatorTest.executor": "Run",
+    "JUnit.InterestCalculatorTest.testCalculateCompoundInterest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "full.screen.before.presentation.mode": "true",
+    "git-widget-placeholder": "english-30m",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/Users/hanno/Code/talks/slide-decks/dont-let-agentic-ai-steal-your-joy-of-coding/java/financial/src/test/java",
+    "last_opened_file_path": "/Users/hanno/Code/talks/slide-decks/dont-let-agentic-ai-steal-your-joy-of-coding/java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projecteuler" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="codes.hanno.financial" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.InterestCalculatorTest">
+    <configuration name="Problem44Fast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Problem44Fast" />
+      <module name="dont-let-agentic-ai-steal-your-joy-of-coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem44Slow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Problem44Slow" />
+      <module name="dont-let-agentic-ai-steal-your-joy-of-coding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterestCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="financial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codes.hanno.financial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codes.hanno.financial" />
+      <option name="MAIN_CLASS_NAME" value="codes.hanno.financial.InterestCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterestCalculatorTest.calculateCompoundInterest_forPositiveRate_returnsTheRightAmount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="financial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codes.hanno.financial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codes.hanno.financial" />
+      <option name="MAIN_CLASS_NAME" value="codes.hanno.financial.InterestCalculatorTest" />
+      <option name="METHOD_NAME" value="calculateCompoundInterest_forPositiveRate_returnsTheRightAmount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterestCalculatorTest.testCalculateCompoundInterest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="financial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codes.hanno.financial.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="codes.hanno.financial" />
+      <option name="MAIN_CLASS_NAME" value="codes.hanno.financial.InterestCalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateCompoundInterest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.InterestCalculatorTest" />
+        <item itemvalue="JUnit.InterestCalculatorTest.calculateCompoundInterest_forPositiveRate_returnsTheRightAmount" />
+        <item itemvalue="JUnit.InterestCalculatorTest.testCalculateCompoundInterest" />
+        <item itemvalue="Application.Problem44Fast" />
+        <item itemvalue="Application.Problem44Slow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d876fc0-ea73-4f0f-a09f-a9a655a0d367" name="Changes" comment="" />
+      <created>1792950046889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792950046889</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

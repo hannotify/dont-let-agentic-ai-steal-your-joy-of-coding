@@ -21,8 +21,11 @@ note:
 
 Preparations:
 * append `?controls=false` to the URL
-* Safari in 'Presenting' mode
+* Safari in the 'Presenting' profile
 * slides on primary screen, speaker notes on secondary
+* Start IntelliJ IDEA in presentation mode
+* Start `Problem44Slow.java` in IntelliJ IDEA
+* Connect Logitech Spotlight
 * Watch pronunciation!
 
 Timing:
@@ -35,7 +38,7 @@ Timing:
 
 note: 
 
-In August 2026, a TypeScript developer called Brett announced on his YouTube channel that he was done coding with AI. He had been a developer for over 20 years and had been working with AI agents for over a year. And just like that, he decided to step away from it.
+A few months ago (August 2026), a TypeScript developer called Brett announced on his YouTube channel that he was done coding with AI. He had been a developer for over 20 years and had been working with AI agents for over a year. And just like that, he decided to step away from it.
 
 The video now has over 1M views, so clearly Brett struck a nerve there.
 Anyone here who remembers watching that video?
@@ -57,16 +60,14 @@ So Brett decided to step away from using AI altogether.
 - His conclusion: "I'm done coding with AI, and we'll simply see what happens next."
 - Well, that's one way to deal with it. And a very brave one at that.
 - I mean no disrespect to Brett or his decision. I wish him well and I sincerely hope he finds the joy he's looking for.
-- But I do want to say it surprised me that this felt like the only way for him to deal with the agentic AI situation. 
+- But I do want to say it really surprised me, that he felt this was the only way to deal with the current agentic AI situation. 
 - And it got me thinking as well, about my own feelings on the current developments in agentic AI. Don't get me wrong: I share Brett's love of writing code, and I certainly don't love *everything* about AI. But I think it can create new opportunities for us. Opportunities that we should at least consider before we conclude that the field has stopped giving us joy altogether.
 
 ---
 
-### Two Types of People in Software Development
+### What do you enjoy more in software development?
 
 <div class="fragment">
-
-What do you enjoy more in software development? 
 
 1. The act of creating something, or;
 2. The feeling you get when your creation is appreciated? 
@@ -85,7 +86,7 @@ The currenty state of the field probably fits you like a glove. You can produce 
 
 ---
 
-### Takeaways for people in the second category
+### Takeaways
 
 * Go forth and enjoy the state of our field to the max! 🥳
 
@@ -112,12 +113,16 @@ And you're in good company: across the globe, people who work in creative indust
 
 "Spotify Strengthens AI Protections for Artists, Songwriters, and Producers"
 
+<small>
+
 (<https://newsroom.spotify.com/2025-09-25/spotify-strengthens-ai-protections/>)
+
+</small>
 
 note:
 A good example of the result of this is the protection for creators that Spotify implemented last year. 
 
-People don't just want to protect their jobs, they want to protect their joy of creating. Because I think the absence of joy in the workplace can be a dangerous thing.
+People don't just want to protect their jobs, they want to protect their joy of creating. Because I think the absence of joy in the workplace is a dangerous thing.
 
 ---
 
@@ -126,7 +131,7 @@ People don't just want to protect their jobs, they want to protect their joy of 
 ## The bottom line <!-- .element class="stroke" -->
 
 <blockquote class="explanation">
-How will you make sure AI doesn't take away the thing you love the most?
+How will you make sure AI doesn't take away the thing you love doing the most?
 </blockquote>
 
 <https://www.pexels.com/photo/a-woman-sitting-on-the-bed-9052191/> <!-- .element: class="attribution" -->
@@ -136,7 +141,7 @@ So then the question becomes: how will you make sure AI doesn't take away the th
 
 ---
 
-<!-- .slide: data-background-image="img/gif/milton-stapler.gif" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/gif/milton-stapler.gif" data-background-size="cover" -->
 
 note:
 
@@ -159,35 +164,64 @@ Meme: Milton with his stapler
 </tr>
 </table>
 
+note:
+The thing I love most is goofing around with computers. :-)
+I've had some opportunities to rise through the ranks along the way.
+You know, 'going into management'.
+But to me, management has always felt like you had to watch from the sidelines while other people do the fun stuff.
+And I'd always want to be involved in the fun stuff.
+
 ---
 
 # 17 years ago...<!-- .element: class="fragment fade-up fade-out" -->
+
+note:
+Speaking of fun stuff, about 17 years ago (slide) I was a few years into my first job.
+And at that point in time it didn't give me as much joy as before.
+Something was missing.
+Then I stumbled upon something that gave me that 'spark' back.
 
 ---
 
 <!-- .slide: data-background-color="black" data-background="img/background/software-engineer.jpg" data-background-opacity="0.7" data-background-size="contain" -->
 
 note:
-* Wear a hoodie with the hood on for 'funprogging' mode, hood off for 'presenter mode'.
-* Solve a [Project Euler](https://projecteuler.net/) problem live on stage:
-  * TODO: Choose a problem that can be solved within 5 minutes, ideally one that runs slowly at first but can be improved to a 'within 1 second' runtime.
-  * Preferably one of my Euler solution from DAGOBERT.
-  * Explain the 1 second Project Euler rule.
-  * TODO: Have the unoptimized solution ready and then optimize it live on stage, to demonstrate the process of improving performance and the fun that brought me.
-* Mention Advent of Code
-* Stage the interruption by the wife, and make a joke on her comment "Still working, honey?". Mention that she is a primary school teacher and what that implies about the way she typically spends her evenings.
+This is just after I discovered it, can you see how happy I am here? (and young, oh so young)
+
+* Advent of Code, anyone?
+* Well, way before we spent our December days doing Advent of Code, we did Project Euler.
+* Which you also could do in summer, as you can see here.
+
+---
+
+<!-- .slide: data-background-iframe="https://projecteuler.net/about" -->
+
+note:
+
+* Solving mathematical puzzles with code, and every program had to complete within 1 minute.
+* It had forum threads with people sharing their solutions in a particular programming language. 
+* It was great fun.
+* (when under `6m`:) Make a [Project Euler](https://projecteuler.net/) solution faster, live on stage:
+  * Present the algorithm in `Problem44Slow`
+  * Explain how a HashSet is O(1) [constant time] for retrieve operations, whereas iteration through a `values` collection is O(n) [linear time].
+  * Make it fast and run it.
+* I learn something like this every time I solve a Project Euler problem.
+* Stage the interruption by the wife, and make a joke on her comment "Still working, honey?". 
+  * "Still working, honey?" No, just solving some maths puzzles for fun.
+  * Explain how it's never clear to her whether I'm working or not.
+  * Mention that she is a primary school teacher and what that implies about the way she typically spends her evenings.
 
 ---
 
 ### Signs that you lost your joy
 
-* spending your evenings funprogging (or something else that you feel is missing from your day job)
+* spending your evenings funprogging <small>(or doing something else that you feel is missing from your day job)</small>
 * losing your interest or your enthousiasm 
 * feelings of resentment towards your employer
 
 note:
 
-* In 2009 I spent my evenings funprogging, because back then I felt that my day job didn't challenge me with enough interesting algorithmic problems and new stacks to learn.
+* Back in 2009 I spent my evenings funprogging, because back then I felt that my day job didn't challenge me with enough interesting algorithmic problems and new stacks to learn.
 * Meaning: I wasn't enjoying my day job as much, and I was looking to get that joy back. 
 * For me, this was a sign that I needed a change. Back then, I changed things up by going into consulting, to get assigned more diverse projects.
 * But other signs exist as well:

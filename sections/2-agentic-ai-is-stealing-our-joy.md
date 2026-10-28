@@ -1,7 +1,7 @@
 <!-- .slide: data-background="img/background/ai-network.jpg" data-background-color="black" data-background-opacity="0.5" -->
 
 # Agentic AI Has Been Stealing Our Joy <!-- .element class="stroke" -->
-#### (And That's a Dangerous Thing) <!-- .element class="stroke fragment" -->
+#### (and that's a dangerous thing) <!-- .element class="stroke fragment" -->
 
 <https://www.pexels.com/photo/robot-pointing-on-a-wall-8386440/> <!-- .element: class="attribution" -->
 
@@ -102,8 +102,8 @@ Enjoying the act of creation, the process of bringing something new into existen
 <https://www.pexels.com/photo/child-building-sand-castle-on-singapore-beach-34083627/> <!-- .element: class="attribution" -->
 
 note: 
-Instead, we're left with just the joy of seeing the final product work.
-- ...and probably a few more (who can think of one?)
+Instead, we're left with just the joy of seeing the final product work
+- ...and perhaps also getting the appreciation for it.
 
 ---
 

@@ -85,4 +85,4 @@ No-one is telling you how to spend your spare time, so keep doing fun stuff, lik
 
 note:
 Just like people who play chess in their spare time, even though computers can play chess much better.
-Or like people playing musical instruments in their spare time, even though AI can generate music much better.
+Or like people playing musical instruments in their spare time, even though AI can probably generate better music.

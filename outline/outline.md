@@ -198,6 +198,8 @@ TODO: update relevant talk info in Obsidian after talk is completed.
 
 ## For the 45-Minute Version
 
+* Talk to Bas M. about the premise and contents of the talk
+* A new opening: the HomeComputerMuseum story
 * A longer version of Section 3 ("Lost Joys from the Past"):
 	- Visual Basic was going to let anyone code. 
 	- UML was going to auto-generate everything.
@@ -207,11 +209,13 @@ TODO: update relevant talk info in Obsidian after talk is completed.
 * Referentie naar de #JoyOfCoding conferentie!
 * A little race at joyful tip #1: me with regexes vs. Copilot. ('Frontier model agentic prompt that should have been a single-line Regex')
 * Don't be a [meat proxy](https://meatproxy.me/)
+* Tokens will become more expensive in the future (now AI companies are losing money gaining market share, just like streaming services used to do ('penetration pricing')), leading to more responsible use of energy and resources.
 * For the "New Joys in the Future" section:
   - Our teams always seem to have shortage of people with a specific expertise, and AI (or skills) can help fill those gaps temporarily while we search for permanent hires.
   - It makes our craft more accessible to people who wouldn't be able to practise it otherwise. Goodness knows we need more software developers in this world.
   - In a field where the concepts are known to you but the actual syntax is not (e.g. a Java developer who needs some intricate CSS) AI can help you get the desired behaviour much faster.
 * Creativity in funprogging: the #JoyOfCoding conference, Masters of Java etc.
+* in the section "trying out different roles", add a fragment with an additional role: 'the architect who gets their hands dirty again', from [Simons blog post](https://martinelli.ch/back-to-the-90s-the-software-engineer-has-all-the-roles-again/).
 
 # Abstract
 

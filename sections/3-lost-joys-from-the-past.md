@@ -16,6 +16,8 @@ Goodness knows our field has seen *a lot* of changes in the past, right?
 And we're still here, enjoying our jobs, right? [wait for audience reaction]
 [if poor reaction] You're thinking too much of code reviews right now. "LGTM", "LGTM", no-one would want to do that all day.
 
+But (slide) I think this time it's different.
+
 ---
 
 <!-- .slide: data-auto-animate" -->
@@ -72,6 +74,9 @@ HALT_PROGRAM:
         ORG START_OF_MEMORY
         DB   1,60,30,10,99
 </code></pre>
+
+note:
+Bubble Sort in Assembly.
 
 ---
 
@@ -180,9 +185,11 @@ note:
 So you could argue that most of our developer joy has remained throughout these changes.
 Which leads us to the million-dollar question: (slide x5)
 
+Isn't the answer simply "Yes"?
+
 ---
 
-### Sure, but this time it seems to be different
+### Well, this time it seems to be different
 
 * &#x200B;<!-- .element class="fragment" --> things are changing *much faster* than before
 * &#x200B;<!-- .element class="fragment" --> the effects of the changes are *much bigger* than before
