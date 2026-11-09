@@ -166,7 +166,7 @@
       <recent name="codes.hanno.financial" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.InterestCalculatorTest">
+  <component name="RunManager" selected="Application.Problem44Fast">
     <configuration name="Problem44Fast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
       <option name="MAIN_CLASS_NAME" value="Problem44Fast" />
@@ -232,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem44Fast" />
+        <item itemvalue="Application.Problem44Slow" />
         <item itemvalue="JUnit.InterestCalculatorTest" />
         <item itemvalue="JUnit.InterestCalculatorTest.calculateCompoundInterest_forPositiveRate_returnsTheRightAmount" />
         <item itemvalue="JUnit.InterestCalculatorTest.testCalculateCompoundInterest" />
-        <item itemvalue="Application.Problem44Fast" />
-        <item itemvalue="Application.Problem44Slow" />
       </list>
     </recent_temporary>
   </component>
