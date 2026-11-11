@@ -7,8 +7,8 @@
 note:
 
 Timing:
-* Elapsed time so far: `17m`
-* Target time for current chapter: `27m`
+* Elapsed time so far: `22m`
+* Target time for current chapter: `38m`
 
 So far I've painted a bit of a bleak picture. Wasn't this talk supposed to give you hope?
 
@@ -115,6 +115,9 @@ frontier model agentic prompt that should have been a single-line Regex
 
 # 3️⃣
 ## strategic programming FTW
+
+note:
+Let me first explain what I mean by this.
 
 ---
 

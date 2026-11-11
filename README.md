@@ -19,9 +19,14 @@ Slide deck for my conference talk "Don't Let Agentic AI Steal Your Joy of Coding
 
 ## 45 min.
 
+| Chapter | Timing | Cumulative |
+|---------|--------|------------|
+| 1. The Search for Joy | 10m | 10m |
+| 2. Agentic AI is Stealing Our Joy of Coding (And That's a Dangerous Thing) | 4m | 14m |
+| 3. Lost Joys from the Past (and why this time it's different) | 8m | 22m |
+| 4. New Joys in the Future | 16m | 38m |
+| 5. Takeaways | 5m | 43m |
+
 TODO:
 
-- Project Euler website didn't work.
-- Include assignment #44 screenshot before showing the solution.
-- 30-minute version had material for at least 45 minutes... don't add too much (I had 8 minutes left for chapter 4&5).
-- Introduce Tactical Programming & Strategic Programming before asking it so bluntly to the audience (they didn't recognise it).
+- Slide deck uploaden naar <https://hanno.codes/slides/dont-let-agentic-ai-steal-your-joy-of-coding/hu-2026>

@@ -7,8 +7,8 @@
 note:
 
 Timing:
-* Elapsed time so far: `27m`
-* Target time for current chapter: `29m`
+* Elapsed time so far: `38m`
+* Target time for current chapter: `43m`
 
 Time for the *real* takeaways.
 

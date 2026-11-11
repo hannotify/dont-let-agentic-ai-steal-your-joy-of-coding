@@ -8,8 +8,8 @@
 note:
 
 Timing:
-* Elapsed time so far: `12m`
-* Target time for current chapter: `17m`
+* Elapsed time so far: `14m`
+* Target time for current chapter: `22m`
 
 Or perhaps I'm overreacting here? 
 Goodness knows our field has seen *a lot* of changes in the past, right?

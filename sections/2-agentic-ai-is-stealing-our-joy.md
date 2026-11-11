@@ -8,8 +8,8 @@
 note:
 
 Timing:
-* Elapsed time so far: `8m`
-* Target time after current chapter: `12m`
+* Elapsed time so far: `10m`
+* Target time after current chapter: `14m`
 
 So, it seems that agentic AI has been changing people's feelings drastically in the past year. 
 Which makes sense, because the work of us programmers has changed as well.

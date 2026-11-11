@@ -198,7 +198,6 @@ TODO: update relevant talk info in Obsidian after talk is completed.
 
 ## For the 45-Minute Version
 
-* Talk to Bas M. about the premise and contents of the talk
 * A new opening: the HomeComputerMuseum story
 * A longer version of Section 3 ("Lost Joys from the Past"):
 	- Visual Basic was going to let anyone code. 

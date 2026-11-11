@@ -17,6 +17,8 @@
 </tr>
 </table>
 
+<img data-src="img/logos/info-support.png" width="35%">
+
 note:
 
 Preparations:
@@ -30,7 +32,43 @@ Preparations:
 
 Timing:
 * Elapsed time so far: `0m`
-* Target time for current chapter: `8m`
+* Target time for current chapter: `10m`
+
+Intro Info Support:
+
+- [vraag] Wat vind je belangrijk in een werkgever?
+- [publiek] ...
+- [mijn-antwoord] Ontwikkeling
+- Deze slide vat al goed samen hoe ik mij heb ontwikkeld bij Info Support.
+- En welke kansen ik heb gekregen door mijn dienstverband aldaar.
+
+(...)
+
+- Ons onderwerp van vandaag heeft ook te maken met ontwikkeling.
+
+---
+
+<!-- .slide: data-background="img/background/homecomputermuseum.jpg" data-background-color="black" data-background-opacity="0.5" -->
+
+<https://www.homecomputermuseum.nl/wp-content/uploads/home-computer-museum_jaren-80_ruimte.jpg> <!-- .element class="attribution" -->
+
+
+
+---
+
+![HomeComputerMuseum](img/background/homecomputermuseum2.jpg) <!-- .element: width="100%" -->
+
+<https://www.deweblogvanhelmond.nl/wp-content/uploads/2023/12/homecomputermuseum_banner-1200x675.jpg> <!-- .element class="attribution" -->
+
+
+---
+
+<!-- .slide: data-background="img/background/homecomputermuseum3.avif" data-background-color="black" data-background-opacity="1.0" -->
+
+![HomeComputerMuseum](img/background/homecomputermuseum3.avif) <!-- .element: width="76%" -->
+
+
+<https://www.placemania.sk/svetova-zaujimavost/muzeum-domacich-pocitacov> <!-- .element class="attribution" -->
 
 ---
 
@@ -194,14 +232,39 @@ This is just after I discovered it, can you see how happy I am here? (and young,
 
 ---
 
-<!-- .slide: data-background-iframe="https://projecteuler.net/about" -->
+<!-- .slide: data-background-image="img/background/project-euler.png" -->
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<https://projecteuler.net> <!-- .element: class="fragment" -->
 
 note:
 
 * Solving mathematical puzzles with code, and every program had to complete within 1 minute.
 * It had forum threads with people sharing their solutions in a particular programming language. 
-* It was great fun.
-* (when under `6m`:) Make a [Project Euler](https://projecteuler.net/) solution faster, live on stage:
+* It was great fun!
+
+---
+
+<!-- .slide: data-background-image="img/problem-44.png" data-background-size="contain" data-background-color="white" -->
+
+note:
+
+* Make a [Project Euler](https://projecteuler.net/) solution faster, live on stage:
   * Present the algorithm in `Problem44Slow`
   * Explain how a HashSet is O(1) [constant time] for retrieve operations, whereas iteration through a `values` collection is O(n) [linear time].
   * Make it fast and run it.
